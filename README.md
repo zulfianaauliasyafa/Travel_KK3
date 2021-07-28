@@ -1,16 +1,15 @@
-# login_dash_animation
+# Welcome Page
 
-A new Flutter project.
+file:///C:/Users/syafa/Downloads/WhatsApp%20Image%202021-07-28%20at%2023.36.30.jpeg
 
-## Getting Started
+# Log In Page
 
-This project is a starting point for a Flutter application.
+file:///C:/Users/syafa/Downloads/WhatsApp%20Image%202021-07-28%20at%2023.36.30%20(1).jpeg
 
-A few resources to get you started if this is your first Flutter project:
+# Dashboard
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+file:///C:/Users/syafa/Downloads/WhatsApp%20Image%202021-07-28%20at%2023.36.30%20(2).jpeg
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Scroll
+
+file:///C:/Users/syafa/Downloads/WhatsApp%20Image%202021-07-28%20at%2023.42.30.jpeg
